@@ -1,5 +1,6 @@
 # Nonogram-MHE-
 Author Rights
+
 This project was created as part of an academic assignment and reflects the original work and effort of the author.
 
 All intellectual and moral rights are reserved.
